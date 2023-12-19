@@ -1,0 +1,33 @@
+body{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.dato{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.materias{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+}
+.dato1{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}
